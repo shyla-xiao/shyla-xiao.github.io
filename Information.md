@@ -13,12 +13,64 @@ category: information
 <!-- One -->
 <section id="one">
 	<div class="inner">
-	<span class="image right"><img src="assets/images/Ningkang Zhao.jpg" alt="" style="border: thick double #c8161e; width: 200px; height: 200px; object-fit: cover;"></span><header class="major" style="display: block; justify-content: space-between; align-items: end;"><h1 style="margin: 0;">{{site.author}}</h1>
+	<span class="image right" style="flex:1; max-width:100%; width:180px; text-align:center;"><img src="assets/images/Ningkang Zhao.jpg" alt="" style="border: 3px solid rgba(181, 181, 182, 1); max-width: 100%; height: auto; object-fit: cover;"></span>
+	<header class="major" style="display: block; justify-content: space-between; align-items: end;">
+	<h1 style="margin: 0;">{{site.author}}</h1>
 	</header>
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<!--icon with information-->
+<ul class="icons" style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap;">
+	<li style="display: flex; align-items: center;"><i class="icon fa-building-columns" style="margin:8px;"></i><a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a></li>
+	<li style="display: flex; align-items: center;"><i class="icon fa-orcid" style="margin:8px;"></i><a href="https://orcid.org/0009-0001-6229-4636" target="_blank">0009-0001-6229-4636</a></li>
+	<li style="display: flex; align-items: center;"><i class="icon fa-envelope" style="margin:8px;"></i><a href="mailto:k_icifer@sjtu.edu.cn">k_icifer@sjtu.edu.cn</a></li>
+	<li style="display: flex; align-items: center;"><i class="icon fa-phone" style="margin:8px;"></i><a href="tel:+8618771767338">187-7176-7338</a></li>
+</ul>
+
+<!-- Introduction -->
+<h2 id="introduction">Introduction</h2>
+<p>I'm a second-year postgraduate student at <a href="https://www.senergy.sjtu.edu.cn/" target="_blank">College of Smart Energy</a>, <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a>. My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer. I am very fortunate to be advised by Prof. M. Song from College of Smart Energy, Shanghai Jiao Tong University. You can find my CV here: <a href="../assets/Curriculum_Vitae.pdf" target="_blank">Ningkang Zhao's Curriculum Vitae</a>.</p>
+
+	
+ <!-- Education -->
+<h2 id="education">Education Background</h2>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>School Name</th>
+				<th>Major</th>
+				<th>Degree</th>
+				<th>Date</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Shanghai Jiao Tong University</td>
+				<td>Energy and Power Engineering</td>
+				<td>Master</td>
+				<td>2022.09 - 2025.03</td>
+			</tr>
+			<tr>
+				<td>Changsha University of Science & Technology</td>
+				<td>Electrical Engineering and Automation</td>
+				<td>Bachelor</td>
+				<td>2017.09 - 2021.06</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+ 
+<!-- Resarch -->
+<h2 id="research">Research</h2>
+<ol class="reference">
+	<li><a href="https://doi.org/10.1002/smll.202401292" target="_blank">N. Zhao, M. Song, X. Zhang, W. Xu, X. Liu, Nanodiamond Coating in Energy and Engineering Fields: Synthesis Methods, Characteristics, and Applications. Small, 2401292.</a></li>
+	<li><a href="https://doi.org/10.1016/j.heliyon.2024.e29750" target="_blank">W. Xu, L. Tang, N. Zhao, K. Ouyang, H. He, X. Liu, Corrosive Effect on Saturated Pool Boiling Heat Transfer Characteristics of Metallic Surfaces with Hierarchical Micro/Nano Structures. Heliyon 2024, 10 (8).</a></li>
+</ol>
+<ul class="actions">
+	<li><a href="Publication.html" class="button">More</a></li>
+</ul>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
@@ -404,9 +456,4 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </code></pre>
 
 </div>
-</div>
-
-</div>
-</section>
-
 </div>

@@ -11,7 +11,7 @@ city: Shanghai
 state:
 zip_code: 200240
 country: China
-phone: (86) 18771767338
+phone: "+8618771767338"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

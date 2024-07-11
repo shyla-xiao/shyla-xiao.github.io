@@ -18,7 +18,7 @@
     padding: 0 !important;
 
     > div {
-      width: calc(100% / 3); // 每个对话框占三分之一的宽度
+      width: calc(300%); // 每个对话框占三分之一的宽度
       padding: 1em; // 可根据需要调整
       box-sizing: border-box; // 确保 padding 不影响宽度计算
       border-right: solid 1px _palette(border);

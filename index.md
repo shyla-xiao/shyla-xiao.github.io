@@ -8,4 +8,4 @@ author: Ningkang Zhao
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+A second-year postgraduate student specializing in Energy and Power Engineering, with a focus on Nuclear Energy and Nuclear Technology Engineering, at the College of Smart Energy, Shanghai Jiao Tong University.
