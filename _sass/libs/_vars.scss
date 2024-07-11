@@ -30,19 +30,13 @@
 
 // Palette.
 	$palette: (
-
 		bg:					#003366,
 		bg-alt:				#336699,
 		fg:					#ffffff,
-		// 粗体前景颜色：白色
 		fg-bold:			#ffffff,
-		// 浅色前景颜色：一种透明度为20%的浅灰色（用rgba定义）
 		fg-light:			rgba(244,244,255,0.2),
-		// 边框颜色：一种透明度为10%的浅灰色（用rgba定义）
 		border:				rgba(212,212,255,0.1),
-		// 边框背景颜色：一种透明度为3.5%的浅灰色（用rgba定义）
 		border-bg:			rgba(212,212,255,0.035),
-		// 高亮颜色：浅蓝色
 		highlight:			#9bf1ff,
 		accent1:			#6fc3df,
 		accent2:			#8d82c4,
