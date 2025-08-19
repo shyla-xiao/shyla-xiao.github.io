@@ -192,7 +192,9 @@ exclude:
   - readme_preview/
   - vendor
   # my exclude
-  - _books
+  # - _books
+  - _pages/books.md
+  - _pages/teaching.md
   
 keep_files:
   - CNAME
