@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xiaoxiao.github.io/sitemap.xml
+Sitemap: https://shyla-xiao.github.io/sitemap.xml
