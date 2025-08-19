@@ -193,8 +193,7 @@ exclude:
   - vendor
   # my exclude
   # - _books
-  - _pages/books.md
-  - _pages/teaching.md
+  - _layouts/book-shelf.liquid
   
 keep_files:
   - CNAME
