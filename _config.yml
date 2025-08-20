@@ -192,7 +192,7 @@ exclude:
   - readme_preview/
   - vendor
   # my exclude
-  - _layouts/book-shelf.liquid
+  - _pages/dropdown.md
   
   - _pages/blog.md
   - _pages/news.md
