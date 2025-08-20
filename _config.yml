@@ -144,7 +144,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
@@ -192,12 +192,12 @@ exclude:
   - readme_preview/
   - vendor
   # my exclude
-  - _pages/dropdown.md
+  # - _pages/dropdown.md
   
-  - _pages/blog.md
-  - _pages/news.md
-  - _pages/teaching.md
-  - _posts/
+  #- _pages/blog.md
+  #- _pages/news.md
+  #- _pages/teaching.md
+  #- _posts/
   
   
 keep_files:
